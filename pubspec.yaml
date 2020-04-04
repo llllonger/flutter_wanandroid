@@ -38,7 +38,7 @@ dependencies:
   # rxdart https://github.com/ReactiveX/rxdart
   rxdart: ^0.22.0
   # https://github.com/renefloor/flutter_cached_network_image
-  cached_network_image: ^0.8.0
+  cached_network_image: ^2.0.0
   # https://github.com/flutter/plugins/tree/master/packages/url_launcher
   url_launcher: ^5.0.2
   # https://github.com/peng8350/flutter_pulltorefresh
@@ -46,7 +46,7 @@ dependencies:
   # device_info
 #  device_info: ^0.4.0+1
   # webview_flutter
-  webview_flutter: ^0.3.7+1
+  webview_flutter: ^0.2.0
   # https://github.com/flutterchina/flukit.
   flukit: ^1.0.0
 
